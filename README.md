@@ -11,7 +11,7 @@ Computer Science student at Maastricht University, focused on building full-stac
 **Languages:** Java · Python · JavaScript · C/C++ · SQL <br>
 **Web:** Django · Django REST Framework · HTML/CSS · PostgreSQL · MySQL <br>
 **Tools:** Git · Docker · Linux · Jira · Microsoft Azure · Railway <br>
-**Learning / exploring:** MATLAB · Blender · LaTeX
+**Learning:** MATLAB · Blender · LaTeX
 
 ## 📌 Featured projects
 
