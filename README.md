@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Laurentiu
 
-<!--
-**laurentiu005/laurentiu005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Maastricht University, focused on building full-stack applications, machine learning systems, and computer vision projects.
 
-Here are some ideas to get you started:
+🔭 Currently working as an **IT Tester at YUFE Alliance** and studying for my **BSc in Computer Science**. <br>
+📫 Reach me at **chirilalaurentiu05@gmail.com** <br>
+📍 Based in Maastricht, The Netherlands.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I work with
+
+**Languages:** Java · Python · JavaScript · C/C++ · SQL <br>
+**Web:** Django · Django REST Framework · HTML/CSS · PostgreSQL · MySQL <br>
+**Tools:** Git · Docker · Linux · Jira · Microsoft Azure · Railway <br>
+**Learning / exploring:** MATLAB · Blender · LaTeX
+
+## 📌 Featured projects
+
+- **[Padding-Based Defenses Against Website Fingerprinting](#)** — A feature-importance-based padding defense for encrypted Tor traffic that cut CNN attack accuracy from ~100% to ~5%.
+- **[Parallax Effect](#)** — Real-time eye tracking with computer vision, driving 3D scenes that react to your gaze to create a sense of depth.
+- **[Amsterdam Routing Engine](#)** — Optimized public-transport and walking routes across Amsterdam, with modeling of how random transit closures ripple through the network.
+
+
+
+## 🌐 Languages
+
+English (C2) · Romanian (C2) · Russian (B2) · French (A2) · Spanish (A1)
+
